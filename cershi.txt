@@ -1,0 +1,1 @@
+how can I sys with my local file in command line?
